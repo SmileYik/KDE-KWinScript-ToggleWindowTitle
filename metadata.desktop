@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Toggle Window Title
+Comment=Toggle activity window's title bar hide or visiable.
+Icon=preferences-system-windows-move
+Type=Service
+
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Smile Yik
+X-KDE-PluginInfo-Email=miskyle@outlook.com
+X-KDE-PluginInfo-Name=toggle-window-title
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-EnabledByDefault=false
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Category=Windows and Tasks
